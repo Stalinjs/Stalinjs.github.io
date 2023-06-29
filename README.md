@@ -1,2 +1,0 @@
-# stalinjs.github.io
-Stalin
